@@ -1,0 +1,46 @@
+.app-container {
+  background-color: #161625;
+  height: 100vh;
+  overflow: auto;
+}
+.bg-container {
+  width: 80%;
+  margin: auto;
+}
+.website-logo-container {
+  display: flex;
+  align-items: center;
+}
+.website-logo {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+}
+.cowin-title {
+  color: #2cc6c6;
+  font-family: roboto;
+}
+.cowin-heading {
+  color: #cbd5e1;
+  font-family: roboto;
+  font-size: 24px;
+}
+.loader-container {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-image {
+  width: 30%;
+}
+.failure-heading {
+  color: white;
+  font-family: bree serif;
+}
